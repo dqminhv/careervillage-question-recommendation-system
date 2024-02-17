@@ -1,0 +1,9 @@
+﻿Model metrics
+Training set size
+Professional: 4665 records
+Question: 12053 records
+Similarity score: Cosine similarity
+Recommendation size: 10 professionals per question
+Successful metrics: 
+* Successful metric: Response rate (# of questions assigned / # of response)
+* Successful metric baseline: 0.0038050571864699247 (3.8 reponses/1000 questions)
