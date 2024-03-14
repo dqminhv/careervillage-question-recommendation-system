@@ -12,6 +12,8 @@ For privacy concerns, users’ information, such as personal and usage informati
 This project utilizes data provided by CareerVillage, retrieved from Kaggle. The full dataset can be found at: https://www.kaggle.com/competitions/data-science-for-good-careervillage/data
 
 ### Data Description
+A brief description of the dataset
+![alt text](https://github.com/dqminhv/careervillage-question-recommendation-system/blob/main/document/careervillage.org_database.png?raw=true)
 ### Data Cleaning & Preprocessing
 ### EDA
 ## Modeling
