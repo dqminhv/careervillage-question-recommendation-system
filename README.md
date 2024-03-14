@@ -5,7 +5,12 @@ CareerVillage.org, a non-profit dedicated to career guidance, seeks to elevate i
 The CareerVillage Question Recommendation Model is designed to efficiently connect students with professionals by assigning a career-related question to a set of professionals most likely to answer. 
 
 ## Methodology
+When it comes to recommending new content, there are three main types of systems at play: Content-based Filtering, Collaborative Filtering, and Hybrid Approach. 
+For privacy concerns, users’ information, such as personal and usage information, is neither stored nor utilized for training purposes. Consequently, a content-based approach will be employed for this project.
+
 ## Data
+This project utilizes data provided by CareerVillage, retrieved from Kaggle. The full dataset can be found at: https://www.kaggle.com/competitions/data-science-for-good-careervillage/data
+
 ### Data Description
 ### Data Cleaning & Preprocessing
 ### EDA
